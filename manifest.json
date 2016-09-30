@@ -1,0 +1,22 @@
+{
+
+  "name": "reddit.com/r/soccer RSS Fetcher",
+  "manifest_version": 2,
+  "version": "1.1",
+  "description": "A Chrome Extension to add Desktop Notification whenever
+  a specified soccer team is mentioned in the subject of reddit.com/r/soccer",
+  "icons": {"16" : "r_soccer.png"},
+
+  "homepage_url": "https://twitter.com/verbosesilence",
+        "background_page": "background.js",
+        "permissions": [
+          "reddit.com/r/soccer.rss/"
+        ],
+
+  "browser_action": {
+    "default_icon": "icon_r_soccer.png",
+    "default_title": "Soccer Updates",
+    "default_popup": "popup.html"
+  }
+
+}
