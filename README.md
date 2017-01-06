@@ -1,3 +1,3 @@
-# Chrome-Extension-Reddit-RSS-Feed-Desktop-Notification-for-r-soccer
+# Reddit Desktop Notifications for r/soccer Chrome Extension
 A chrome extension for desktop notifications when a specified team(s) is mentioned in r/soccer 
 Currently fixing reddit RSS issues 
